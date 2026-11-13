@@ -64,10 +64,6 @@ Comparison of actual and forecast call volume, forecast deviation by project, an
 - **CSV source files** — monthly contact-center datasets (February, March and April)
 - **Analysis themes** — call demand, service level, abandoned calls, ASA and forecast variance
 
-## Report file and data
-
-The original Power BI report and datasets may be added to this repository after a review of **data ownership, sharing permissions and any agent/customer personal information**. Screenshots are included here to allow browser-based viewing without installing Power BI Desktop.
-
 ## Notes on interpretation
 
 - **Service level** depends on the threshold and denominator defined in the source model; verify both in the DAX measures.
